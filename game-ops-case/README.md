@@ -27,3 +27,5 @@
 阅读 [37GAMES 官方品牌页](https://zhaopin.37.com/37wannet/brand.html) 与 [《Puzzles & Survival》Google Play 商店页](https://play.google.com/store/apps/details?id=com.global.ztmslgme)：商店介绍包括益智消除与策略玩法、免费游玩与内购、版本更新说明，并提供游戏内客服与邮件渠道。由此形成待真实项目验证的问题：新手活动如何衔接策略成长、奖励规则如何跨语言表达、版本更新后客服问题如何与留存变化交叉核对。这是桌面研究，未声称本人游玩、运营或接触后台。
 
 另核对了 [《Puzzles & Chaos》商店页](https://play.google.com/store/apps/details?id=com.global.pnck) 的奇幻题材、消除战斗、城堡建设和联盟玩法，以及 [《Ant Legion》商店页](https://play.google.com/store/apps/details?id=com.global.antgame) 的蚁群建设、资源争夺和联盟玩法。三款游戏的公开玩家评论为活动门槛、付费体验、奖品说明及客服响应提供了待验证的问题；评论不代表总体玩家意见，需结合真实工单和分区数据再作运营决策。
+
+在 [《Puzzles & Survival》官方玩家指南](https://gevents.37games.com/officialGuide/index.html?name=pnsguide) 中核对了 **Doomsday Expedition: Lewis Ridge** 的活动攻略目录和版本说明；在《Ant Legion》商店评论中看到玩家提及活动倒计时与奖励资格争议。可据此设计一张活动上线检查表：按市场时区写清起止时间、奖励资格和发放路径，准备争议工单的证据字段与客服升级人，并在复盘中分开比较活动参与、投诉和留存。这些是基于公开材料的运营建议，不是本人亲历的游戏体验或官方处理结果。
