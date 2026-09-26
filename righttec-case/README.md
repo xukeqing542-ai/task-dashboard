@@ -4,7 +4,7 @@
 
 ## 复现
 
-使用 Python 3 标准库运行 `python ads_case.py` 与 `python finance_case.py`，分别得到 `ads_output/` 和 `finance_output/` 下的源数据、汇总表和 `summary.json`。本地压缩包另含 `creative_storyboard.py`、四张画面与 8 秒竖屏样片，视频生成需要 Pillow 和 ffmpeg。
+使用 Python 3 标准库运行 `python ads_case.py` 与 `python finance_case.py`，分别得到 `ads_output/` 和 `finance_output/` 下的源数据、汇总表和 `summary.json`。本地压缩包另含两份可编辑 Excel：广告受众素材复盘、跨境经营日月报及 VLOOKUP 差异核对；还有 `creative_storyboard.py`、四张画面与 8 秒竖屏样片，视频生成需要 Pillow 和 ffmpeg。
 
 ## 两个岗位的项目证据
 
